@@ -1,0 +1,22 @@
+.body2 {
+  background-color: #fcdb00
+}
+.container {
+      margin: 1%
+
+}
+
+.left, .right {
+box-sizing: border-box;
+background-color: lightgray;
+padding: 20px;
+width: 49.5%;
+}
+.left {
+margin-right: 1%;
+float:left;
+
+}
+.right {
+float:left;
+}
